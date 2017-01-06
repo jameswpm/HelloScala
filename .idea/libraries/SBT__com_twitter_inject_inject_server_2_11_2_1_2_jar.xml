@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter.inject:inject-server_2.11:2.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter.inject/inject-server_2.11/jars/inject-server_2.11-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter.inject/inject-server_2.11/srcs/inject-server_2.11-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
